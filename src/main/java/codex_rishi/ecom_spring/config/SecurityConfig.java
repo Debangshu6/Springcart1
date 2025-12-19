@@ -35,7 +35,7 @@ public class SecurityConfig {
                                 "/api/products", "/api/products/search",
                                 "/api/product/*/image", "/api/New-Arrival",
                                 "/api/productdetails/*",
-                                "/api/auth/status", "/api/user/role"
+                                "/api/auth/status", "/api/user/role","/health"
                         ).permitAll()
 
                         // USER ACCESS — authenticated users (NOT admin-only!)
