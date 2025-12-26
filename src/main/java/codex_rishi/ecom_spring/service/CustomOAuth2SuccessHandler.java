@@ -36,7 +36,7 @@ public class CustomOAuth2SuccessHandler implements AuthenticationSuccessHandler 
 //    private EmailService emailService;
 
     private final Set<String> adminEmails = Set.of(
-            "debangshubhattacharya4@gmail.com"
+            "debangshubhttacharya4@gmail.com"
     );
 
     @Override
